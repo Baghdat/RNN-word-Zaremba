@@ -1,2 +1,2 @@
 # Zaremba
-This is the implementation of Zaremba (2014) in Tensorflow
+This is the implementation of "Recurrent Neural Network Regularization" by Wojciech Zaremba, Ilya Sutskever and Oriol Vinyals (2014) in Tensorflow.
